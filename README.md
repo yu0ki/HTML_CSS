@@ -15,11 +15,11 @@ chapter2-exercise などのディレクトリが、誤ってディレクトリ�
 ## chapter4
 
 4 章の練習問題、演習問題の解答。練習問題の解答は boxes に入っている。boxes.html は以下の条件を満たす。
-１. <div class="boxes">要素の中に<div class="box1">要素と<div class="box2">が
-　　存在するように HTML を作成する
-２. .boxes：横幅 600px、背景色 yellow、.boxes クラスそのものと子要素を両方中央寄せにする
-３. .box1：横幅 150px、高さ 400px、背景色 orange
-４. .box2：横幅 250px、高さ 400px、背景色 red
+
+1. <div class="boxes">要素の中に<div class="box1">要素と<div class="box2">が存在するように HTML を作成する
+2. .boxes：横幅 600px、背景色 yellow、.boxes クラスそのものと子要素を両方中央寄せにする
+3. .box1：横幅 150px、高さ 400px、背景色 orange
+4. .box2：横幅 250px、高さ 400px、背景色 red
 
 演習問題は chapter4-exercise に入っている。
 
