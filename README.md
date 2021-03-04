@@ -21,7 +21,23 @@ chapter2-exercise などのディレクトリが、誤ってディレクトリ�
 3. .box1：横幅 150px、高さ 400px、背景色 orange
 4. .box2：横幅 250px、高さ 400px、背景色 red
 
-演習問題は chapter4-exercise に入っている。
+演習問題は chapter4-exercise に入っている。箱をさらにたくさん並べて、簡易的なウェブページの枠組みを作成した。
+flexbox を用いて箱を中央ぞろえにするのがポイントである。
+
+## chapter5
+
+4 章の練習問題、演習問題の解答を管理するディレクトリ。直下の example.html と style.css は練習問題（問 3）の解答であり、次の条件を満たす。
+
+1. header タグ、h1 タグ、nav タグ、ol タグ、li タグを用いる
+   　　 header タグの中に h1 タグと nav タグがあり、nav タグの中に ol タグ、
+   　　 ol タグの中に li タグが 4 つある構成にする
+2. h1 タグの中身は、EXAMPLE とする
+3. li タグの中身は、それぞれ MENU1、MENU2、MENU3、MENU4 とする
+4. class 名は、それぞれ"headline"、"nav"、"list"、"list-item"とする
+5. header の width（横幅）は、10％にする
+6. headline の font-size（文字の大きさ）は、22px にする
+7. nav 内の文字を中央寄せ（text-align）にする
+8. "list"クラスには css で padding-left: 40px;を適用させる
 
 ## caravan
 
