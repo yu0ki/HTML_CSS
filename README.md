@@ -12,14 +12,22 @@ chapter2-exercise などのディレクトリが、誤ってディレクトリ�
 
 この章では入れ子構造について学んだ。<div>タグで箱を 2 つ作って入れ子構造にし、各箱に背景色を background-color を使って指定したり、padding,mergin を指定したりした。
 
+## chapter4
+
+4 章の練習問題、演習問題の解答。練習問題の解答は boxes に入っている。boxes.html は以下の条件を満たす。
+１. <div class="boxes">要素の中に<div class="box1">要素と<div class="box2">が
+　　存在するように HTML を作成する
+２. .boxes：横幅 600px、背景色 yellow、.boxes クラスそのものと子要素を両方中央寄せにする
+３. .box1：横幅 150px、高さ 400px、背景色 orange
+４. .box2：横幅 250px、高さ 400px、背景色 red
+
+演習問題は chapter4-exercise に入っている。
+
 ## caravan
 
 4 章以降での作成物はこのフォルダに入っている。4 章以降では、ウェブページ caravan の作成を行った。
 
-### 4 章
-
-ウェブページの枠組み作成。
-
-#### 学んだこと
+### 4 章で学んだこと
 
 - リセット CSS
+- web ページの枠組みの作り方
