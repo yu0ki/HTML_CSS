@@ -75,6 +75,9 @@ footer {
   width: 100%;
 }
 
+/* レスポンシブ対応
+幅を%を用いて制御するようにし、Flexboxを解除することで縦長の画面に対応させている。
+ */
 @media screen and (max-width: 768px) {
   main {
     width: 100%;
